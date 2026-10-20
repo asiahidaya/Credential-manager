@@ -36,6 +36,11 @@ Credential-manager/
 └── README.md
 ```
 
+## Screenshots
+<img width="1520" height="687" alt="Screenshot 2026-10-20 132133" src="https://github.com/user-attachments/assets/e5e5623c-2cff-4458-8600-616247e03b68" />
+<img width="1522" height="677" alt="Screenshot 2026-10-20 132114" src="https://github.com/user-attachments/assets/9c9b671f-8d7b-4ea2-8a71-1ff46cf62a4a" />
+
+
 ## Author
 
 **Asia Hidaya**
