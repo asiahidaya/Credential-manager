@@ -1,0 +1,248 @@
+body {
+  background-color: #161e1e;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.head img {
+  width: 10%;
+  height: 10%;
+  object-fit: contain;
+}
+
+.head h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #3d4e4e;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.links {
+  display:flex;
+  gap: 30px;
+  margin-left: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.page-title {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.form-group {
+  width: 80%;
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+}
+
+form {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #1d2f2f;
+  box-sizing: border-box;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.input-group label .password-input {
+  width: 100px;
+  text-align: right;
+}
+
+.input-group input {
+  width: 220px;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+button {
+  background-color: #639393;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 15px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8aa;
+}
+
+.home-body {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.home-title {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 120px;
+}
+
+.footer {
+  background-color: #1d2f2f;
+  text-align: center;
+  margin-top: 200px;
+  padding: 20px;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.users-list {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 25px;
+  padding: 20px;
+  border: 1px solid #355;
+  background-color: #172b2b;
+}
+
+.logoutBtn {
+  margin-left: auto;
+  background-color: rgb(20, 30, 30);
+  align-items: right;
+  border-radius: 15px;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.logoutBtn:hover {
+  background-color: rgb(57, 61, 61);
+}
+
+
+.add-container {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+}
+
+.addBtn {
+  background-color: #638093;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 15px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.addBtn:hover {
+  background-color: #8aa;
+}
+
+.table {
+  width: 100%;
+  border-collapse:separate;
+  margin-top: 30px;
+}
+
+.table th {
+    background-color: #355;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #355;
+    padding: 15px;
+    text-align: center;
+}
+
+.table td {
+    background-color: #122;
+    color: white;
+    font-size: 15px;
+    border: 1px solid #355;
+    padding: 15px;
+    text-align: center;
+}
+
+.table button {
+    background-color: #638093;
+    color: black;
+    border: 1px solid #aaa;
+    border-radius: 15px;
+    padding: 5px 12px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.table button:hover {
+    background-color: #8aa;
+}
+
+.showBtn {
+  background-color: #121b1b;
+  border-radius: 15px;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.showBtn:hover {
+  background-color: #8aa;
+}
+
+.password {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.password label {
+  width: 100px;
+  text-align: right;
+}
+
+.password input {
+  width: 220px;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 15px;
+}
