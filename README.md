@@ -34,3 +34,12 @@ Credential-manager/
 │   └── package.json
 ├── package.json
 └── README.md
+```
+
+## Author
+
+**Asia Hidaya**
+
+- GitHub: [@asiahidaya](https://github.com/asiahidaya)
+- LinkedIn: [Asia Hidaya](https://linkedin.com/in/asia-hidaya)
+- Email: asiahidaya27@gmail.com
